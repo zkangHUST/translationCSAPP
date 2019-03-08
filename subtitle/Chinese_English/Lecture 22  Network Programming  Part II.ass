@@ -27,50 +27,50 @@ Style: Chinese,Source Han Sans CN,34,&H00FBFD00,&H00FFFFFF,&H00362A28,&H00FFFFFF
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.72,0:00:06.36,English,,0,0,0,,So today's the second lecture about network programming we got started last time
-Dialogue: 0,0:00:00.72,0:00:06.36,Chinese,,0,0,0,,所以今天是关于网络编程的第二次讲座，我们上次开始了
-Dialogue: 0,0:00:07.04,0:00:15.18,English,,0,0,0,,And as you probably saw last time there the api is for this are really big and hairy and messy and
-Dialogue: 0,0:00:07.04,0:00:15.18,Chinese,,0,0,0,,正如你上次可能看到的那样api是因为它非常大而且毛茸茸且杂乱无章
+Dialogue: 0,0:00:00.72,0:00:06.36,English,,0,0,0,,So today,it's the second lecture about network programming we got started last time
+Dialogue: 0,0:00:00.72,0:00:06.36,Chinese,,0,0,0,,所以今天是关于网络编程的第二次课程，我们上次已经讲过一节课
+Dialogue: 0,0:00:07.04,0:00:15.18,English,,0,0,0,,And as you probably saw last time there the apis for this are really big and hairy and messy and
+Dialogue: 0,0:00:07.04,0:00:15.18,Chinese,,0,0,0,,正如你上次可能看到的那样，这一套网络api非常庞大而且混乱
 Dialogue: 0,0:00:15.54,0:00:19.06,English,,0,0,0,,It takes just a lot of time in my own personal experience of
-Dialogue: 0,0:00:15.54,0:00:19.06,Chinese,,0,0,0,,在我自己的个人经历中花费很多时间
-Dialogue: 0,0:00:19.64,0:00:24.74,English,,0,0,0,,Rereading we looking at code looking at examples rereading documentation
-Dialogue: 0,0:00:19.64,0:00:24.74,Chinese,,0,0,0,,重读我们正在查看代码，重新阅读文档
+Dialogue: 0,0:00:15.54,0:00:19.06,Chinese,,0,0,0,,就我个人经验来说，这需要花费大量的时间
+Dialogue: 0,0:00:19.64,0:00:24.74,English,,0,0,0,,Rereading ,looking at code looking at examples rereading documentation
+Dialogue: 0,0:00:19.64,0:00:24.74,Chinese,,0,0,0,,不断地阅读，看代码和例程，以及读文档
 Dialogue: 0,0:00:25.26,0:00:28.00,English,,0,0,0,,Going back and forth over that a dozen or so times
-Dialogue: 0,0:00:25.26,0:00:28.00,Chinese,,0,0,0,,十几次左右来回走动
+Dialogue: 0,0:00:25.26,0:00:28.00,Chinese,,0,0,0,,这个过程来来回回重复十几次甚至更多次
 Dialogue: 0,0:00:28.56,0:00:30.02,English,,0,0,0,,Before it all really sinks in
-Dialogue: 0,0:00:28.56,0:00:30.02,Chinese,,0,0,0,,在它真正陷入之前
+Dialogue: 0,0:00:28.56,0:00:30.02,Chinese,,0,0,0,,才能真正理解
 Dialogue: 0,0:00:30.20,0:00:34.70,English,,0,0,0,,And it's one where it really helps a lot to look at example code
-Dialogue: 0,0:00:30.20,0:00:34.70,Chinese,,0,0,0,,而且它是一个真正有助于查看示例代码的人
+Dialogue: 0,0:00:30.20,0:00:34.70,Chinese,,0,0,0,,而且看示例代码是非常有帮助的
 Dialogue: 0,0:00:34.70,0:00:40.90,English,,0,0,0,,And there's example code in the book in that csapp.c file
-Dialogue: 0,0:00:34.70,0:00:40.90,Chinese,,0,0,0,,在csapp.c文件中的书中有示例代码
+Dialogue: 0,0:00:34.70,0:00:40.90,Chinese,,0,0,0,,在书中csapp.c文件里有示例代码
 Dialogue: 0,0:00:40.90,0:00:43.34,English,,0,0,0,,That you've seen versions of in various forms
-Dialogue: 0,0:00:40.90,0:00:43.34,Chinese,,0,0,0,,你已经看过各种形式的版本
+Dialogue: 0,0:00:40.90,0:00:43.34,Chinese,,0,0,0,,你已经看过各种形式不同的版本
 Dialogue: 0,0:00:44.58,0:00:50.16,English,,0,0,0,,So I can lecture for days and weeks
-Dialogue: 0,0:00:44.58,0:00:50.16,Chinese,,0,0,0,,所以我可以讲几天和几周
+Dialogue: 0,0:00:44.58,0:00:50.16,Chinese,,0,0,0,,就网络编程这个话题，我可以讲几天几夜甚至几周
 Dialogue: 0,0:00:50.30,0:00:54.24,English,,0,0,0,,But this really would all settle in until you've spent time studying yourself
-Dialogue: 0,0:00:50.30,0:00:54.24,Chinese,,0,0,0,,但是，在你花时间研究自己之前，这真的会全部解决
+Dialogue: 0,0:00:50.30,0:00:54.24,Chinese,,0,0,0,,但是只有你自己花时间学习，才能真正掌握
 Dialogue: 0,0:00:54.86,0:00:59.90,English,,0,0,0,,Anyways I want to repeat and go back over a little bit of ground before
-Dialogue: 0,0:00:54.86,0:00:59.90,Chinese,,0,0,0,,无论如何，我想重复一遍，然后回过头来
+Dialogue: 0,0:00:54.86,0:00:59.90,Chinese,,0,0,0,,无论如何，我想重复一遍，然后再回过头来继续我们的课程
 Dialogue: 0,0:00:59.92,0:01:05.98,English,,0,0,0,,But last time we talked about the idea of translating from a domain name
-Dialogue: 0,0:00:59.92,0:01:05.98,Chinese,,0,0,0,,但上次我们谈到了从域名翻译的想法
+Dialogue: 0,0:00:59.92,0:01:05.98,Chinese,,0,0,0,,上次我们谈到了从域名转换的概念
 Dialogue: 0,0:01:05.98,0:01:12.32,English,,0,0,0,,Which is something like www.cmu.edu to IP address
-Dialogue: 0,0:01:05.98,0:01:12.32,Chinese,,0,0,0,,这就像www.cmu.edu到IP地址
-Dialogue: 0,0:01:13.26,0:01:21.00,English,,0,0,0,,For IPv4 is a 32 bit address,it's usually written in dotted decimal form
-Dialogue: 0,0:01:13.26,0:01:21.00,Chinese,,0,0,0,,对于IPv4是32位地址，它通常以点分十进制形式写入
+Dialogue: 0,0:01:05.98,0:01:12.32,Chinese,,0,0,0,,就比如从www.cmu.edu转换到IP
+Dialogue: 0,0:01:13.26,0:01:21.00,English,,0,0,0,,Which for IPv4 is a 32 bit address,it's usually written in dotted decimal form
+Dialogue: 0,0:01:13.26,0:01:21.00,Chinese,,0,0,0,,对于IPv4,它是用32个比特位表示的地址，通常以点分十进制形式表示
 Dialogue: 0,0:01:22.48,0:01:26.81,English,,0,0,0,,And I showed you a program last time called host info that you could
-Dialogue: 0,0:01:22.48,0:01:26.81,Chinese,,0,0,0,,我上次给你看了一个程序，你可以调用主机信息
+Dialogue: 0,0:01:22.48,0:01:26.81,Chinese,,0,0,0,,我上次给你们看了一个叫做主机信息的程序，它可以
 Dialogue: 0,0:01:27.74,0:01:29.78,English,,0,0,0,,That will look actually at the code for
 Dialogue: 0,0:01:27.74,0:01:29.78,Chinese,,0,0,0,,这看起来实际上是代码
 Dialogue: 0,0:01:34.14,0:01:40.62,English,,0,0,0,,And I just wanted to show you today I just did one very small tweak to that program and I'll describe it today
 Dialogue: 0,0:01:34.14,0:01:40.62,Chinese,,0,0,0,,我今天只想告诉你我刚刚对该程序进行了一次非常小的调整，我今天将对其进行描述
 Dialogue: 0,0:01:41.34,0:01:48.88,English,,0,0,0,,And the interesting thing is it lets you look at both IPv4 and IPv6
-Dialogue: 0,0:01:41.34,0:01:48.88,Chinese,,0,0,0,,有趣的是它可以让你看到IPv4和IPv6
+Dialogue: 0,0:01:41.34,0:01:48.88,Chinese,,0,0,0,,有趣的是它可以让你同时看到IPv4和IPv6
 Dialogue: 0,0:01:49.52,0:01:52.36,English,,0,0,0,,And it's one of the interesting features the code in the book
 Dialogue: 0,0:01:49.52,0:01:52.36,Chinese,,0,0,0,,这是本书代码中有趣的功能之一
 Dialogue: 0,0:01:52.36,0:01:55.76,English,,0,0,0,,And it's new to the third edition is it uses a new api
-Dialogue: 0,0:01:52.36,0:01:55.76,Chinese,,0,0,0,,它是第三版的新功能，它使用了新的api
+Dialogue: 0,0:01:52.36,0:01:55.76,Chinese,,0,0,0,,它是第三版新增的功能，它使用了新的api
 Dialogue: 0,0:01:56.38,0:02:03.28,English,,0,0,0,,That lets you pretty easily write code that will work under either of these two versions of the internet protocol
-Dialogue: 0,0:01:56.38,0:02:03.28,Chinese,,0,0,0,,这使你可以非常轻松地编写可在这两个版本的Internet协议之一下工作的代码
+Dialogue: 0,0:01:56.38,0:02:03.28,Chinese,,0,0,0,,这使你可以非常轻松地编写可以在这两个版本Internet协议之一下工作的代码
 Dialogue: 0,0:02:04.62,0:02:06.26,English,,0,0,0,,So for example
 Dialogue: 0,0:02:04.62,0:02:06.26,Chinese,,0,0,0,,所以举个例子
 Dialogue: 0,0:02:08.44,0:02:10.58,English,,0,0,0,,With this slightly modified program
@@ -78,33 +78,33 @@ Dialogue: 0,0:02:08.44,0:02:10.58,Chinese,,0,0,0,,通过这个略微修改的程
 Dialogue: 0,0:02:11.54,0:02:14.92,English,,0,0,0,,If I now look up the IP address for facebook
 Dialogue: 0,0:02:11.54,0:02:14.92,Chinese,,0,0,0,,如果我现在查找facebook的IP地址
 Dialogue: 0,0:02:16.80,0:02:19.02,English,,0,0,0,,You'll see it comes back with two different ones
-Dialogue: 0,0:02:16.80,0:02:19.02,Chinese,,0,0,0,,你会看到它有两个不同的回归
+Dialogue: 0,0:02:16.80,0:02:19.02,Chinese,,0,0,0,,你会看到它会返回两个不同的IP地址
 Dialogue: 0,0:02:21.16,0:02:22.02,English,,0,0,0,,And the
 Dialogue: 0,0:02:21.16,0:02:22.02,Chinese,,0,0,0,,而且
 Dialogue: 0,0:02:25.26,0:02:31.46,English,,0,0,0,,The first one is the familiar dotted decimal form where each recall that each of these digits
-Dialogue: 0,0:02:25.26,0:02:31.46,Chinese,,0,0,0,,第一个是熟悉的点分十进制形式，每个回忆一下这些数字
+Dialogue: 0,0:02:25.26,0:02:31.46,Chinese,,0,0,0,,第一个是熟悉的点分十进制形式，回忆一下这里的每一个数字
 Dialogue: 0,0:02:31.46,0:02:35.08,English,,0,0,0,,It's a decimal representation of of a single byte
 Dialogue: 0,0:02:31.46,0:02:35.08,Chinese,,0,0,0,,它是单个字节的十进制表示
 Dialogue: 0,0:02:35.22,0:02:37.66,English,,0,0,0,,So it's a number between 0 and 255
-Dialogue: 0,0:02:35.22,0:02:37.66,Chinese,,0,0,0,,所以这是0到255之间的数字
+Dialogue: 0,0:02:35.22,0:02:37.66,Chinese,,0,0,0,,所以范围是0到255之间的数字
 Dialogue: 0,0:02:38.32,0:02:46.06,English,,0,0,0,,This is a IPv6 address which is I told you is 128 bits long
-Dialogue: 0,0:02:38.32,0:02:46.06,Chinese,,0,0,0,,这是一个IPv6地址，我告诉你这是128位长
+Dialogue: 0,0:02:38.32,0:02:46.06,Chinese,,0,0,0,,这是一个IPv6地址，我告诉你它的长度是128个比特位
 Dialogue: 0,0:02:46.18,0:02:53.18,English,,0,0,0,,So that's to the seventh takeaway 3 to the fifth 32 bytes right
 Dialogue: 0,0:02:46.18,0:02:53.18,Chinese,,0,0,0,,所以这是第七个外卖3到第五个32字节右边
 Dialogue: 0,0:02:54.20,0:02:56.52,English,,0,0,0,,And it's usually written in this hex format
-Dialogue: 0,0:02:54.20,0:02:56.52,Chinese,,0,0,0,,它通常以这种十六进制格式编写
-Dialogue: 0,0:02:58.06,0:03:01.84,English,,0,0,0,,With : be after every pair of bytes
-Dialogue: 0,0:02:58.06,0:03:01.84,Chinese,,0,0,0,,使用：在每对字节之后
+Dialogue: 0,0:02:54.20,0:02:56.52,Chinese,,0,0,0,,它通常以这种十六进制格式表示
+Dialogue: 0,0:02:58.06,0:03:01.84,English,,0,0,0,,With ： after every pair of bytes
+Dialogue: 0,0:02:58.06,0:03:01.84,Chinese,,0,0,0,,在每两个字节后面加一个：
 Dialogue: 0,0:03:02.68,0:03:05.74,English,,0,0,0,,And I think the : : just means that's a zero there
 Dialogue: 0,0:03:02.68,0:03:05.74,Chinese,,0,0,0,,我认为::只是意味着那里是零
 Dialogue: 0,0:03:06.24,0:03:16.38,English,,0,0,0,,When the cute things facebook did was embed face as a hex code inside of their IPv6 address
-Dialogue: 0,0:03:06.24,0:03:16.38,Chinese,,0,0,0,,当facebook做的可爱的东西被嵌入其IPv6地址内的十六进制代码
+Dialogue: 0,0:03:06.24,0:03:16.38,Chinese,,0,0,0,,Facebook做了一件有趣的事情，他们face这个单词作为十六进制编码嵌入到了IP6地址当中
 Dialogue: 0,0:03:23.84,0:03:24.72,English,,0,0,0,,And
-Dialogue: 0,0:03:23.84,0:03:24.72,Chinese,,0,0,0,,和
+Dialogue: 0,0:03:23.84,0:03:24.72,Chinese,,0,0,0,,嗯……
 Dialogue: 0,0:03:28.32,0:03:30.20,English,,0,0,0,,That's really different I get very different results
-Dialogue: 0,0:03:28.32,0:03:30.20,Chinese,,0,0,0,,这真的不同我得到了非常不同的结果
+Dialogue: 0,0:03:28.32,0:03:30.20,Chinese,,0,0,0,,这真的不同，我得到了非常不同的结果
 Dialogue: 0,0:03:30.88,0:03:32.96,English,,0,0,0,,Running this at home and then I do here
-Dialogue: 0,0:03:30.88,0:03:32.96,Chinese,,0,0,0,,在家里运行，然后我在这里
+Dialogue: 0,0:03:30.88,0:03:32.96,Chinese,,0,0,0,,在家里运行和在这里运行
 Dialogue: 0,0:03:33.26,0:03:39.62,English,,0,0,0,,And as I mentioned you'll get different results running a DNS server depending on where in the country are
 Dialogue: 0,0:03:33.26,0:03:39.62,Chinese,,0,0,0,,正如我所提到的，根据国家/地区的不同，你将获得运行DNS服务器的不同结果
 Dialogue: 0,0:03:40.74,0:03:42.72,English,,0,0,0,,Uh if you repeat the same thing over and over again
@@ -116,9 +116,9 @@ Dialogue: 0,0:03:43.84,0:03:50.52,Chinese,,0,0,0,,这是因为这些非常大的
 Dialogue: 0,0:03:51.02,0:03:56.54,English,,0,0,0,,And as a way to sort of balance out the load of the traffic they also have multiple server addresses
 Dialogue: 0,0:03:51.02,0:03:56.54,Chinese,,0,0,0,,作为一种平衡流量负载的方法，它们还具有多个服务器地址
 Dialogue: 0,0:03:57.12,0:04:02.56,English,,0,0,0,,That then they kind of rotate through to give you so that different people will get served by different machines
-Dialogue: 0,0:03:57.12,0:04:02.56,Chinese,,0,0,0,,然后他们会轮流通过给你，以便不同的人可以得到不同的机器
+Dialogue: 0,0:03:57.12,0:04:02.56,Chinese,,0,0,0,,然后他们会把地址轮流返回给你，以便不同的人可以得到不同的机器的服务
 Dialogue: 0,0:04:03.70,0:04:11.72,English,,0,0,0,,So you see for example twitter, google just gave me two addresses in IPv4 and IPv6 address
-Dialogue: 0,0:04:03.70,0:04:11.72,Chinese,,0,0,0,,所以你看到例如twitter，谷歌只给了我两个地址的IPv4和IPv6地址
+Dialogue: 0,0:04:03.70,0:04:11.72,Chinese,,0,0,0,,所以你看到例如twitter，谷歌只给了我两个地址的，一个IPv4和一个IPv6
 Dialogue: 0,0:04:12.34,0:04:15.12,English,,0,0,0,,Twitter gave me a for different IPv4 addresses
 Dialogue: 0,0:04:12.34,0:04:15.12,Chinese,,0,0,0,,Twitter给了我一个不同的IPv4地址
 Dialogue: 0,0:04:18.16,0:04:21.36,English,,0,0,0,,So let's look then at the code
