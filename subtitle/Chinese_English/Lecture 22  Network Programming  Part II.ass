@@ -11,8 +11,8 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../../Desktop/csapp/Lecture 22  Network Programming  Part II.mp4
-Video File: ../../../../Desktop/csapp/Lecture 22  Network Programming  Part II.mp4
+Audio File: E:/Desktop/Lecture 22  Network Programming  Part II.mp4
+Video File: E:/Desktop/Lecture 22  Network Programming  Part II.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
@@ -130,21 +130,21 @@ Dialogue: 0,0:04:26.00,0:04:28.92,Chinese,,0,0,0,,老实说，我花了相当多
 Dialogue: 0,0:04:29.08,0:04:31.56,English,,0,0,0,,So I can really understand it better
 Dialogue: 0,0:04:29.08,0:04:31.56,Chinese,,0,0,0,,所以我可以更好地理解它
 Dialogue: 0,0:04:32.10,0:04:34.22,English,,0,0,0,,Because it's pretty it's not simple stuff
-Dialogue: 0,0:04:32.10,0:04:34.22,Chinese,,0,0,0,,因为它很漂亮并不简单
+Dialogue: 0,0:04:32.10,0:04:34.22,Chinese,,0,0,0,,因为它非常，嗯..它不是一个简单的东西
 Dialogue: 0,0:04:35.48,0:04:36.70,English,,0,0,0,,But as I mentioned that
 Dialogue: 0,0:04:35.48,0:04:36.70,Chinese,,0,0,0,,但正如我提到的那样
 Dialogue: 0,0:04:37.36,0:04:38.80,English,,0,0,0,,As we went over last time
-Dialogue: 0,0:04:37.36,0:04:38.80,Chinese,,0,0,0,,我们上次去了
+Dialogue: 0,0:04:37.36,0:04:38.80,Chinese,,0,0,0,,我们上次提到过
 Dialogue: 0,0:04:39.54,0:04:42.52,English,,0,0,0,,This is sort of this giant block diagram that shows
-Dialogue: 0,0:04:39.54,0:04:42.52,Chinese,,0,0,0,,这是一个巨大的框图显示
-Dialogue: 0,0:04:43.06,0:04:47.86,English,,0,0,0,,All the activity involved in setting up and running both a server and a client
-Dialogue: 0,0:04:43.06,0:04:47.86,Chinese,,0,0,0,,设置和运行服务器和客户端所涉及的所有活动
+Dialogue: 0,0:04:39.54,0:04:42.52,Chinese,,0,0,0,,这是一个巨大的框图显示了
+Dialogue: 0,0:04:43.06,0:04:47.86,English,,0,0,0,,All the activity involved in setting up and running both a server and a client 
+Dialogue: 0,0:04:43.06,0:04:47.86,Chinese,,0,0,0,,设置并运行服务器和客户端所涉及的所有活动
 Dialogue: 0,0:04:48.76,0:04:50.08,English,,0,0,0,,And just to repeat
-Dialogue: 0,0:04:48.76,0:04:50.08,Chinese,,0,0,0,,只是重复一遍
+Dialogue: 0,0:04:48.76,0:04:50.08,Chinese,,0,0,0,,这里只是重复一遍
 Dialogue: 0,0:04:50.74,0:04:54.70,English,,0,0,0,,The idea is you need to the server needs to fire up
-Dialogue: 0,0:04:50.74,0:04:54.70,Chinese,,0,0,0,,这个想法是你需要服务器需要启动
+Dialogue: 0,0:04:50.74,0:04:54.70,Chinese,,0,0,0,,这个想法是首先服务器需要启动
 Dialogue: 0,0:04:54.72,0:04:58.78,English,,0,0,0,,You can't contact a server until that server exists
-Dialogue: 0,0:04:54.72,0:04:58.78,Chinese,,0,0,0,,在该服务器存在之前，你无法联系服务器
+Dialogue: 0,0:04:54.72,0:04:58.78,Chinese,,0,0,0,,在该服务器存在之前，你无法连接到服务器
 Dialogue: 0,0:04:59.04,0:05:02.12,English,,0,0,0,,So it's the server is the thing that has to exist first
 Dialogue: 0,0:04:59.04,0:05:02.12,Chinese,,0,0,0,,所以服务器是首先必须存在的东西
 Dialogue: 0,0:05:02.70,0:05:09.30,English,,0,0,0,,And all these steps are what are required for a server to begin on a machine
@@ -152,26 +152,26 @@ Dialogue: 0,0:05:02.70,0:05:09.30,Chinese,,0,0,0,,所有这些步骤都是服务
 Dialogue: 0,0:05:09.30,0:05:12.60,English,,0,0,0,,And then to accept a connection request from a client
 Dialogue: 0,0:05:09.30,0:05:12.60,Chinese,,0,0,0,,然后接受来自客户端的连接请求
 Dialogue: 0,0:05:14.52,0:05:18.88,English,,0,0,0,,Similarly once the server is set then the client can begin
-Dialogue: 0,0:05:14.52,0:05:18.88,Chinese,,0,0,0,,同样，一旦设置了服务器，客户端就可以开始了
+Dialogue: 0,0:05:14.52,0:05:18.88,Chinese,,0,0,0,,同样，一旦设置了服务器，客户端就可以开始工作了
 Dialogue: 0,0:05:19.32,0:05:22.52,English,,0,0,0,,And it's like placing a call to the server
-Dialogue: 0,0:05:19.32,0:05:22.52,Chinese,,0,0,0,,这就像拨打服务器一样
+Dialogue: 0,0:05:19.32,0:05:22.52,Chinese,,0,0,0,,这就像给服务器打一个电话一样
 Dialogue: 0,0:05:23.04,0:05:25.02,English,,0,0,0,,And it makes a connection request
 Dialogue: 0,0:05:23.04,0:05:25.02,Chinese,,0,0,0,,它会发出连接请求
 Dialogue: 0,0:05:25.60,0:05:27.48,English,,0,0,0,,And that's accepted by the server
-Dialogue: 0,0:05:25.60,0:05:27.48,Chinese,,0,0,0,,这已经被服务器接受了
+Dialogue: 0,0:05:25.60,0:05:27.48,Chinese,,0,0,0,,然后被服务器接受
 Dialogue: 0,0:05:27.96,0:05:32.22,English,,0,0,0,,And then what's called a session begins meaning an ability for these two
-Dialogue: 0,0:05:27.96,0:05:32.22,Chinese,,0,0,0,,然后所谓的会话开始意味着这两者的能力
-Dialogue: 0,0:05:32.78,0:05:37.87,English,,0,0,0,,Machines to talk back and for worth over an internet connection
-Dialogue: 0,0:05:32.78,0:05:37.87,Chinese,,0,0,0,,通过互联网连接进行通话的机器
-Dialogue: 0,0:05:38.54,0:05:42.70,English,,0,0,0,,And they'll do it this example I'll show is done by reading and writing
-Dialogue: 0,0:05:38.54,0:05:42.70,Chinese,,0,0,0,,他们会做这个例子我将通过阅读和写作完成
+Dialogue: 0,0:05:27.96,0:05:32.22,Chinese,,0,0,0,,然后所谓的会话就建立起来了，这意味着这两个机器可以
+Dialogue: 0,0:05:32.78,0:05:37.87,English,,0,0,0,,Machines to talk back and forth over an internet connection
+Dialogue: 0,0:05:32.78,0:05:37.87,Chinese,,0,0,0,,通过互联网连接进行来回通话
+Dialogue: 0,0:05:38.54,0:05:42.70,English,,0,0,0,,And they'll do it this example I've showed  is done by reading and writing
+Dialogue: 0,0:05:38.54,0:05:42.70,Chinese,,0,0,0,,在我展示的例子当中，他们通过读写
 Dialogue: 0,0:05:43.22,0:05:49.08,English,,0,0,0,,As if they were filed,a file each end looks like it's reading and writing a file
-Dialogue: 0,0:05:43.22,0:05:49.08,Chinese,,0,0,0,,就好像它们被归档一样，每个文件的末尾看起来都在读取和写入文件
+Dialogue: 0,0:05:43.22,0:05:49.08,Chinese,,0,0,0,,就好像读写一个文件一样，每个文件的两端看起来都在读取和写入文件
 Dialogue: 0,0:05:52.08,0:05:57.92,English,,0,0,0,,And then once the client is done with whatever it's trying to get
-Dialogue: 0,0:05:52.08,0:05:57.92,Chinese,,0,0,0,,然后，一旦客户端完成了它想要获得的任何东西
+Dialogue: 0,0:05:52.08,0:05:57.92,Chinese,,0,0,0,,然后，一旦客户端完成了工作，获得的它想获得的东西
 Dialogue: 0,0:05:58.60,0:06:01.30,English,,0,0,0,,It will disconnect
 Dialogue: 0,0:05:58.60,0:06:01.30,Chinese,,0,0,0,,它将断开连接
-Dialogue: 0,0:06:02.28,0:06:03.68,English,,0,0,0,,Since we hang up its phone
+Dialogue: 0,0:06:02.28,0:06:03.68,English,,0,0,0,,Since we hang up its phone 
 Dialogue: 0,0:06:02.28,0:06:03.68,Chinese,,0,0,0,,因为我们挂了电话
 Dialogue: 0,0:06:04.76,0:06:10.74,English,,0,0,0,,And then the listening the server will detect this by receiving an end of file
 Dialogue: 0,0:06:04.76,0:06:10.74,Chinese,,0,0,0,,然后监听服务器将通过接收文件结束来检测到这一点
@@ -190,9 +190,9 @@ Dialogue: 0,0:06:32.96,0:06:39.72,Chinese,,0,0,0,,在本课程的后面，我们
 Dialogue: 0,0:06:40.66,0:06:42.58,English,,0,0,0,,So this is a pretty basic version
 Dialogue: 0,0:06:40.66,0:06:42.58,Chinese,,0,0,0,,所以这是一个非常基本的版本
 Dialogue: 0,0:06:44.98,0:06:57.02,English,,0,0,0,,So the first step on either the client or the server side is this very hairy messy relatively new api  called getaddrinfo
-Dialogue: 0,0:06:44.98,0:06:57.02,Chinese,,0,0,0,,所以在客户端或服务器端的第一步是这个非常多毛的凌乱相对较新的api，叫做getaddrinfo
+Dialogue: 0,0:06:44.98,0:06:57.02,Chinese,,0,0,0,,所以在客户端或服务器端的第一步是这个非常凌乱复杂且相对较新的api，叫做getaddrinfo
 Dialogue: 0,0:06:57.52,0:07:03.02,English,,0,0,0,,And the idea of getaddrinfo is it's a sort of kitchen sink a Swiss army knife for you
-Dialogue: 0,0:06:57.52,0:07:03.02,Chinese,,0,0,0,,getaddrinfo的想法是它是一种厨房水槽，一把瑞士军刀
+Dialogue: 0,0:06:57.52,0:07:03.02,Chinese,,0,0,0,,getaddrinfo这个api就想厨房里的水槽，像瑞士军刀一样
 Dialogue: 0,0:07:03.04,0:07:07.80,English,,0,0,0,,All those expressions of it has a zillion features
 Dialogue: 0,0:07:03.04,0:07:07.80,Chinese,,0,0,0,,它的所有表达都具有无数的特征
 Dialogue: 0,0:07:08.26,0:07:13.42,English,,0,0,0,,To that sort of subsume a lot of other sort of individual protocols
@@ -200,57 +200,57 @@ Dialogue: 0,0:07:08.26,0:07:13.42,Chinese,,0,0,0,,对于那种包含许多其他
 Dialogue: 0,0:07:13.52,0:07:17.90,English,,0,0,0,,So for example it's pretty much the same whether it's IPv4 IPv6
 Dialogue: 0,0:07:13.52,0:07:17.90,Chinese,,0,0,0,,例如，无论是IPv4 IPv6，它几乎都是一样的
 Dialogue: 0,0:07:18.64,0:07:27.68,English,,0,0,0,,It lets you sort of go forward from and a domain name to an IP address
-Dialogue: 0,0:07:18.64,0:07:27.68,Chinese,,0,0,0,,它允许你从一个域名转发到一个IP地址
+Dialogue: 0,0:07:18.64,0:07:27.68,Chinese,,0,0,0,,它允许你从一个域名转换到一个IP地址
 Dialogue: 0,0:07:27.82,0:07:31.34,English,,0,0,0,,Lets you go backward from an IP address back to a domain name
-Dialogue: 0,0:07:27.82,0:07:31.34,Chinese,,0,0,0,,允许你从IP地址返回到域名
+Dialogue: 0,0:07:27.82,0:07:31.34,Chinese,,0,0,0,,也允许你从一个IP地址得到域名
 Dialogue: 0,0:07:31.69,0:07:39.08,English,,0,0,0,,It supports all of those things it will let you look up what is the port number associated with an http server
 Dialogue: 0,0:07:31.69,0:07:39.08,Chinese,,0,0,0,,它支持所有这些功能，它可以让你查找与http服务器关联的端口号
 Dialogue: 0,0:07:39.20,0:07:41.70,English,,0,0,0,,So it will let you do all kinds of different things
 Dialogue: 0,0:07:39.20,0:07:41.70,Chinese,,0,0,0,,所以它会让你做各种不同的事情
 Dialogue: 0,0:07:43.22,0:07:51.50,English,,0,0,0,,And as a result it's a big and messy api with zillions features and parameters and and so forth
-Dialogue: 0,0:07:43.22,0:07:51.50,Chinese,,0,0,0,,因此，它是一个庞大而凌乱的api，具有zillions功能和参数等等
+Dialogue: 0,0:07:43.22,0:07:51.50,Chinese,,0,0,0,,因此，它是一个庞大而凌乱的api，具有非常多的功能和参数等等
 Dialogue: 0,0:07:55.26,0:07:57.60,English,,0,0,0,,So you recall from last time that the
-Dialogue: 0,0:07:55.26,0:07:57.60,Chinese,,0,0,0,,所以你从上次回忆起那个
+Dialogue: 0,0:07:55.26,0:07:57.60,Chinese,,0,0,0,,所以回忆一下上次课程
 Dialogue: 0,0:07:59.12,0:08:05.44,English,,0,0,0,,The data structures we use to refer to a connection
-Dialogue: 0,0:07:59.12,0:08:05.44,Chinese,,0,0,0,,我们用来引用连接的数据结构
+Dialogue: 0,0:07:59.12,0:08:05.44,Chinese,,0,0,0,,我们用来表示一个连接的数据结构
 Dialogue: 0,0:08:06.40,0:08:11.42,English,,0,0,0,,Whether it's an IPv4 or an IPv6 connection is called a sockaddr
 Dialogue: 0,0:08:06.40,0:08:11.42,Chinese,,0,0,0,,无论是IPv4还是IPv6连接都称为sockaddr
 Dialogue: 0,0:08:12.16,0:08:15.90,English,,0,0,0,,And as I mentioned this is sort of the C version of sub typing
 Dialogue: 0,0:08:12.16,0:08:15.90,Chinese,,0,0,0,,正如我所提到的，这是一种子类型的C版本
 Dialogue: 0,0:08:15.96,0:08:18.78,English,,0,0,0,,If you know a language with a type inheritance
-Dialogue: 0,0:08:15.96,0:08:18.78,Chinese,,0,0,0,,如果你知道具有类型继承的语言
+Dialogue: 0,0:08:15.96,0:08:18.78,Chinese,,0,0,0,,如果你了解某种具有类型继承的语言
 Dialogue: 0,0:08:19.30,0:08:22.20,English,,0,0,0,,This is how it's done in C it's done by casting
-Dialogue: 0,0:08:19.30,0:08:22.20,Chinese,,0,0,0,,这就是它在C中完成的方式
+Dialogue: 0,0:08:19.30,0:08:22.20,Chinese,,0,0,0,,这就是它在C中完成的方式，通过强制转换实现
 Dialogue: 0,0:08:22.88,0:08:26.40,English,,0,0,0,,And so in particular the sort of generic socket address
-Dialogue: 0,0:08:22.88,0:08:26.40,Chinese,,0,0,0,,特别是那种通用套接字地址
+Dialogue: 0,0:08:22.88,0:08:26.40,Chinese,,0,0,0,,所以那种通用套接字地址
 Dialogue: 0,0:08:26.44,0:08:32.06,English,,0,0,0,,All it needs to know is a two byte field at the front that specifies what kind of socket is this
-Dialogue: 0,0:08:26.44,0:08:32.06,Chinese,,0,0,0,,它需要知道的是前面的一个双字节字段，它指定了这种类型的套接字
+Dialogue: 0,0:08:26.44,0:08:32.06,Chinese,,0,0,0,,它需要知道的是前面的一个双字节字段，它指定了套接字的类型
 Dialogue: 0,0:08:33.20,0:08:34.46,English,,0,0,0,,And then in particular
 Dialogue: 0,0:08:33.20,0:08:34.46,Chinese,,0,0,0,,然后特别是
 Dialogue: 0,0:08:35.78,0:08:38.46,English,,0,0,0,,We'll be looking at what's called a sockaddr_in
 Dialogue: 0,0:08:35.78,0:08:38.46,Chinese,,0,0,0,,我们将关注所谓的sockaddr_in
 Dialogue: 0,0:08:39.02,0:08:43.26,English,,0,0,0,,Which is an IPv4 version of of a socket
-Dialogue: 0,0:08:39.02,0:08:43.26,Chinese,,0,0,0,,哪个是套接字的IPv4版本
+Dialogue: 0,0:08:39.02,0:08:43.26,Chinese,,0,0,0,,这是一个套接字的IPv4版本
 Dialogue: 0,0:08:43.44,0:08:52.02,English,,0,0,0,,And so what it needs to know is a port number which is a two byte integer and a IP address
-Dialogue: 0,0:08:43.44,0:08:52.02,Chinese,,0,0,0,,所以需要知道的是一个端口号，它是一个双字节整数和一个IP地址
+Dialogue: 0,0:08:43.44,0:08:52.02,Chinese,,0,0,0,,所以它需要知道的是一个端口号，它是一个双字节整数和一个IP地址
 Dialogue: 0,0:08:52.12,0:08:56.58,English,,0,0,0,,Which is a 4 byte address for IPv4
-Dialogue: 0,0:08:52.12,0:08:56.58,Chinese,,0,0,0,,这是IPv4的4字节地址
+Dialogue: 0,0:08:52.12,0:08:56.58,Chinese,,0,0,0,,IPv4地址是一个4字节的地址
 Dialogue: 0,0:08:59.02,0:09:02.44,English,,0,0,0,,Both of those are actually stored in this structure as I mentioned in
-Dialogue: 0,0:08:59.02,0:09:02.44,Chinese,,0,0,0,,正如我在上面提到的那样，这两个实际上都存储在这个结构中
+Dialogue: 0,0:08:59.02,0:09:02.44,Chinese,,0,0,0,,正如我在上面提到的那样，这两个实际上都以大端序存储在这个结构中
 Dialogue: 0,0:09:02.82,0:09:06.56,English,,0,0,0,,In big-endian order even if you're running it on a little endian machine
-Dialogue: 0,0:09:02.82,0:09:06.56,Chinese,,0,0,0,,即使你在一台小端机上运行它，也会以big-endian命令运行
+Dialogue: 0,0:09:02.82,0:09:06.56,Chinese,,0,0,0,,即使你在一台小端机上运行它
 Dialogue: 0,0:09:07.32,0:09:09.78,English,,0,0,0,,And one of the interesting features of that
 Dialogue: 0,0:09:07.32,0:09:09.78,Chinese,,0,0,0,,其中一个有趣的特点
 Dialogue: 0,0:09:10.32,0:09:12.36,English,,0,0,0,,This api this getaddrinfo
 Dialogue: 0,0:09:10.32,0:09:12.36,Chinese,,0,0,0,,这个api这个getaddrinfo
 Dialogue: 0,0:09:13.06,0:09:18.78,English,,0,0,0,,It's largely removed the need for you as a programmer to worry about byte ordering
-Dialogue: 0,0:09:13.06,0:09:18.78,Chinese,,0,0,0,,它在很大程度上消除了作为程序员担心字节排序的需要
+Dialogue: 0,0:09:13.06,0:09:18.78,Chinese,,0,0,0,,它在很大程度上消除了作为程序员需要担心字节序的问题
 Dialogue: 0,0:09:19.04,0:09:20.56,English,,0,0,0,,And that's a nice feature
 Dialogue: 0,0:09:19.04,0:09:20.56,Chinese,,0,0,0,,这是一个很好的功能
 Dialogue: 0,0:09:21.18,0:09:25.96,English,,0,0,0,,So in general for example and getaddrinfo if I want to pass an port number
-Dialogue: 0,0:09:21.18,0:09:25.96,Chinese,,0,0,0,,所以一般来说例如和getaddrinfo如果我想传递一个端口号
+Dialogue: 0,0:09:21.18,0:09:25.96,Chinese,,0,0,0,,所以一般来说，如果如果我想传递一个端口号给getaddrinfo
 Dialogue: 0,0:09:26.44,0:09:28.46,English,,0,0,0,,I'll pass it as a character string
-Dialogue: 0,0:09:26.44,0:09:28.46,Chinese,,0,0,0,,我将它作为一个字符串传递给我
+Dialogue: 0,0:09:26.44,0:09:28.46,Chinese,,0,0,0,,我将它作为一个字符串传递进去
 Dialogue: 0,0:09:29.24,0:09:33.56,English,,0,0,0,,A string representation of a decimal number in other words
 Dialogue: 0,0:09:29.24,0:09:33.56,Chinese,,0,0,0,,换句话说，十进制数字的字符串表示
 Dialogue: 0,0:09:34.20,0:09:43.52,English,,0,0,0,,And then the code here within this api will automatically turn that into a 16-bit integer and  put it in the proper byte order
